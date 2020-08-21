@@ -1,8 +1,0 @@
-export const ADD_COMPONENT = 'ADD_COMPONENT';
-export const UPDATE_COMPONENT = 'UPDATE_COMPONENT';
-export const REMOVE_COMPONENT = 'REMOVE_COMPONENT';
-
-export const SORT = 'SORT';
-export const APPEND_COMPONENT = 'APPEND_COMPONENT';
-
-export const EMPTY_PAGE = 'EMPTY_PAGE';
